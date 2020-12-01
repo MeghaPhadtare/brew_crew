@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "942739669086",
+    "firebase_url": "https://brew-22a76.firebaseio.com",
+    "project_id": "brew-22a76",
+    "storage_bucket": "brew-22a76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942739669086:android:7c3a81ae7007a60f4ff4cf",
+        "android_client_info": {
+          "package_name": "com.megha.bre_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942739669086-6i640fpv1vj06k6qg7etobidpvnqbmva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6tFmRGndPcRuyvITqyJ7ixqM6ZHkPC-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942739669086-6i640fpv1vj06k6qg7etobidpvnqbmva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
